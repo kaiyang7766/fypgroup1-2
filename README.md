@@ -11,4 +11,4 @@ e) Dropout rate 0.8
 f) L2 regularization 0.001
 
 ## Acknowledgement
-The infrastructure and training of model is adapted from the paper: [Predicting the chemical reactivity of organic materials using a machine-learning approach] (https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc01328e)
+The infrastructure and training of model is adapted from the paper: [Predicting the chemical reactivity of organic materials using a machine-learning approach](https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc01328e)
