@@ -1,0 +1,16 @@
+Propanone  CC(=O)C  9.694  0  0  0
+Butanone  O=C(C)CC  9.54  0  0  0  0
+2-Pentanone  O=C(C)CCC  9.28  0  0  0  0  0
+3-Hexanone  O=C(CC)CCC  9.12  0  0  0  0  0  0
+3-Heptanone  CCC(=O)CCCC  9.02  0  0  0  0  0  0  0
+3-Octanone  CCCCCC(=O)CC  9.75  0  0  0  0  0  0  0  0
+3-Nonanone  CCCCCCC(=O)CC  9.16  0  0  0  0  0  0  0  0  0
+3-Decanone  CCCCCCCC(=O)CC  9.4  0  0  0  0  0  0  0  0  0  0
+Cyclopropanone  C1CC1=O  9.1  0  0  0
+Cyclobutanone  O=C1CCC1  9.354  0  0  0  0
+Cyclopentanone  C1CCC(=O)C1  9.45  0  0  0
+Cyclohexanone  C1CCC(=O)CC1  9.84  0  0  0  0  0  0
+Cycloheptanone  O=C1CCCCCC1  9.14  0  0  0  0  0  0  0
+Cyclooctanone  O=C1CCCCCCC1  9.28  0  0  0  0  0  0  0  0
+Cyclononanone  O=C1CCCCCCC1  9.42  0  0  0  0  0  0  0  0  0
+Cyclodecanone  O=C1CCCCCCCC1  9.19  0  0  0  0  0  0  0  0  0  0
